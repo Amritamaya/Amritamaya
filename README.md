@@ -5,7 +5,6 @@
 ### 👋 About Me  
 
 Hello there! I'm an **Electronics and Communication Engineer** with a passion for **hardware design**, **VLSI Systems**, and **innovative projects**.
-
   
 
 #### 🔧 Skills:   
