@@ -39,8 +39,8 @@ Let's build something amazing together! 🌐✨
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrithamaya&show_icons=true&theme=radical" alt="Amrita's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amrithamaya&theme=radical" alt="Amrita's GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amritamaya&show_icons=true&theme=radical" alt="Amrita's GitHub Stats" />
+ 
 </p>
 
 ### 🌱 Currently Learning
