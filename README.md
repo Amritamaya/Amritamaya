@@ -8,7 +8,7 @@ Hello there! I'm an **Electronics and Communication Engineer** with a passion fo
   
 
 #### 🔧 Skills:   
-- **Programming:** Proficient in C/C++,Verilog, Python, and Arduino IDE.  
+- **Programming:** Proficient in VHDL,Verilog, System Verilog.  
 - **Circuit Debugging:** Passionate about troubleshooting and optimizing electronic designs.  
 - **Prototyping:** Turning concepts into functional hardware.  
 
@@ -16,8 +16,8 @@ Hello there! I'm an **Electronics and Communication Engineer** with a passion fo
 - (will be updated soon)
 
 #### 🛠️ Tools & Platforms:  
-- **Hardware:** Arduino, ESP32, NodeMCU.  
-- **Design Tools:** Xilinx, KiCAD, FUSSION 360.  
+- **Hardware:** Arduino,FPGAs.  
+- **Design Tools:** Xilinx, KiCAD, Vivado.  
 - **Collaboration:** GitHub, Git, and open-source projects 
 
 #### 📚 Learning & Mentoring:  
@@ -45,9 +45,9 @@ Let's build something amazing together! 🌐✨
 
 ### 🌱 Currently Learning
 
-- Advanced Verilog 
+- Verilog 
 - VLSI and hardware design
-- CAD (FUSSION 360) 
+- Cadence
 
 ---
 
